@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "this is my first stream.",
+      "id": 1
+    },
+    {
+      "title": "My Other Stream",
+      "description": "this is my second stream.",
+      "id": 2
+    },
+    {
+      "title": "My fifth Stream",
+      "description": "I just moved form in another file so that it can be used in edit as well \"updated text appended\"",
+      "gmailUserId": "104082181142845843202",
+      "id": 4
+    }
+  ]
+}
